@@ -27,7 +27,7 @@ public class ProductController {
 		
 	model.addAttribute("product", new product());
 	model.addAttribute("listCategories", listCategories);
-	
+//return	
    return "newproduct";
 }
 	@PostMapping("/products/save")
