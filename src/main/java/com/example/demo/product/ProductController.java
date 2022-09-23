@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import com.example.demo.category.category;
 import com.example.demo.category.categoryRepositary;
 
-
+// add controller
 @Controller
 public class ProductController {
 
